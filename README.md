@@ -3,7 +3,7 @@
 ## The core idea
 Crear un cerebro digital que almacene almacena las formas de estrategia de ahorro más eficaces y te recomienda mediante un estudio personalizado propio tu propia estrategia financiera, teniendo asi toda la información para hacerle preguntas concretas financieras de los gastos e ingresos de soluciones a problemas así como análisis a posibles mejoras
 
-## Esta idea surge a partir del Paper de Adrej Karpathy, trabajador de Anthrop\c y coofundador de OpenIA:
+*Esta idea surge a partir del Paper de Adrej Karpathy, trabajador de Anthrop\c y coofundador de OpenIA:*
 
 https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 
