@@ -75,7 +75,7 @@ Claud.md tendrá el prom de:
 
 # Estado del proyecto
 
-## 🚧 Proyecto en desarrollo.
+*🚧 Proyecto en desarrollo.*
 
 Actualmente se está diseñando la arquitectura de conocimiento y el sistema de mantenimiento automático de la wiki.
 
